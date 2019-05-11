@@ -1,7 +1,8 @@
 <?php
 require_once 'UserManager.php';
-// testing Git Hub
-use UserManager;
+// testing Git Hub 110519
+jhkhkh
+use UserManagerss;
 use ..\data\UserManagerDB;
 //use classes\data\UserManagerDB;
 use ..\entity\User;
